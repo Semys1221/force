@@ -1,4 +1,0 @@
-webhook-classifier/
-├── app.py
-├── requirements.txt
-└── .env.example
